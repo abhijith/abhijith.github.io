@@ -1,0 +1,37 @@
+Dear XYZ,
+
+    I would like to apply to the role of BLAH advertised at BLAH.com
+
+    I have 10 years of experience as a Software Engineer in multiple
+    domains. Having predominantly worked in startups and as such have
+    donned multiple roles ranging from developer, individual
+    contributor, devops and software architect in the most recent
+    years.
+
+    During these 10 years, I have had the opportunity to work on cloud
+    computing, virtualization technologies, distributed systems, file
+    systems, solve problems using machine learning techniques and
+    develop applications in a variety of programming languages.
+
+    I have also mentored junior engineers, gathered business
+    requirements, formalized business processes, introduced good
+    engineering practices, planned and executed projects under
+    tight deadlines.
+
+    These varied experiences have equipped me to appreciate the
+    inherent trade-offs and nuances involved in the software design
+    process at all levels.
+
+    I am generally a curious person and like stepping out of my
+    comfort zone and pushing boundaries. This has helped me grow and
+    has helped me shape my learning, my thought process and my career.
+
+    I believe I can add value to your organization with my diverse
+    experience. For further details regarding my experience please
+    refer to my enclosed resume.
+
+    I thank you for your consideration and look forward to hear from you.
+
+
+    Regards
+    Abhijith
