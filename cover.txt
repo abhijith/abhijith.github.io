@@ -1,13 +1,16 @@
-<p>    Over the course of the last 11 years I have worked predominantly for startups and have donned multiple roles: developer, individual contributor, DevOps, data engineer and software architect.</p>
+<p>Hello,</p>
 
-<p>    I have had the good fortune of working in diverse areas like cloud computing, distributed systems, Linux kernel (VFS layer), have solved problems using machine learning and developed applications in different programming languages.</p>
+		<p> I would like to apply for the role of "Software Engineer, Cloud". I heard about Zenuity from a friend and the role looks well aligned with my background.
 
-<p>    Primarly, my experience has been in systems and infrastructure engineering. I have experience building data pipelines (good understanding of Lambda and Kappa architecture), have deployed, tuned and programmed against distributed systems like Hadoop and ZooKeeper, and have modelled data in NoSQL systems. Having worked with different system, I have developed a strong appreciation and fair understanding of the intricacies involved system design. I think it has made me a better engineer.</p>
+		<p>    Over the course of the last 11 years I have worked predominantly for startups and as such have donned multiple roles: developer, individual contributor, infrastructure engineer, data engineer. I have also had the good fortune of working in diverse areas like cloud computing, micro services, distributed systems, Linux Kernel and machine learning. Primarly, my experience has been in cloud and infrastructure engineering; have built data pipelines, deployed, tuned and programmed against distributed systems like Hadoop and ZooKeeper, modelled data in NoSQL systems.
 
-<p>    I am also interested in programming language design and in-line with this interest have tried to learn languages with different paradigms. I am particularly fond of functional programming languages and have played around with Common lisp, written applications in Clojure and built a VM scheduler using Erlang OTP. I have also have played around with Haskell and OCaml.</p>
+<p>Outside the professional setting, I frequently read and think about a variety of topics (including but not limited to philosophy, psychology, astrophysics). I am generally a curious person and like to understand how the world works.</p>
 
-<p>I am generally a curious person; enjoy sharing and learning from others, and generally geeking out!</p>
 
-<p>I thank you for your time and look forward to explore the opportunity to work with your team.</p>
+
+
+<p>I thank you for your time and look forward to have an interesting and open discussion.</p>
 
 <p>Cheers!</p>
+
+<p>Abhi</p>
