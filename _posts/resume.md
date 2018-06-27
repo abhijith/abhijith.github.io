@@ -3,10 +3,6 @@
 
 ### Skills
 
-* Experience deploying containers under multiple container orchestrators: Nomad, Rancher and Kubernetes.
-
-* Kubernetes, Kube2IAM, Kops, Nomad, Rancher, Flux, Helm, Docker, Drone, ConCourse, Vault, Consul, ZooKeeper, Kafka, HBase, RabbitMQ, Prometheus, Grafana, Sensu, Monit.
-
 * *Languages:* Fluent in Ruby. Prior experience in Python, C, Clojure and Erlang. Have also tinkered with Haskell and Rust.
 
 * Operational and architectural experience with: AWS, HBase, Hadoop, Storm, Zookeeper, Kafka, RabbitMQ, Consul, Vault, Rancher, Kubernetes.
@@ -18,21 +14,21 @@
 #### Blippar India Pvt Ltd (Infrastructure Engineer, Apr 2017 - present)
 *Technologies:* AWS, Terraform, Consul, Nomad, Vault, Rancher, Drone, Kubernetes.
 
-Responsible for designing, maintaining, improving the Blippar infrastructure and engineering workflows:
-	uniformity
-	conventions
-	engineering effectiveness and developer productivity
-	best practices
+Actively worked towards an unified architecture to improve engineering effectiveness:
 
-	* containerization
-	* Initiated and led the effort to
-   * Actively containerized applications and worked with developers to ensure 12-factor guidelines compliance.
-   * Instituted Infrastructure as Code with Terraform: ensured uniform, fast, reproducible and human-error free deployments.
-*
-*
+ * Containerized legacy applications and worked with devs ensure conformance to 12-factor for existing containers.
 
+ * Consolidated monitoring, alerting and metrics collection systems using Grafana and Prometheus
 
-   Automated manual steps, standardized workflows and containerized legacy applications; simplified the maintenance process and decreased AWS infrastructure cost by 10-15%.
+ * Standardized CI/CD conventions and workflows
+
+ * Introduced Kubernetes to enable consolidation of different workloads (stateful, stateless, crons, one-off jobs)
+
+ * Instituted infrastructure as code using Terraform and Flux.
+
+ * Redesigned network topology to ensure isolation of production and dev environment
+
+All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 #### Styletag.com (Technical Architect, Nov 2014 - Nov 2016)
 *Technologies:* Rails, Ruby, Chef, Chef-Provisioning, Sensu, AWS ecosystem, Vagrant, Resque.
