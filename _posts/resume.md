@@ -1,32 +1,32 @@
-### Abhijith Gopal
+### <center>Abhijith Gopal</center>
 ---
 
-### Skills
+### Skills and Experience
 
-* *Languages:* Fluent in Ruby. Prior experience in Python, C, Clojure and Erlang. Have also tinkered with Haskell and Rust.
+* *Languages:* Fluent in Ruby. Prior experience in Python, C, Clojure and Erlang. Have also dabbled  with Haskell and Rust.
 
-* Operational and architectural experience with: AWS, HBase, Hadoop, Storm, Zookeeper, Kafka, RabbitMQ, Consul, Vault, Rancher, Kubernetes.
+* Operational and architectural experience with: AWS, HBase, Hadoop, Storm, Zookeeper, Kafka, RabbitMQ, Consul, Vault, Rancher, Kubernetes, Helm.
 
-* Prior experience in data engineering and applying machine learning.
+* Prior experience in Virtualization, Linux Kernel development, data engineering and applying machine learning.
+
+* Experienced in both development and infrastructure engineering.
+
+* Have held different roles Developer, DevOps, Architect, Data Engineer and individual contributor.
 
 ### Professional Summary  (2006 - present)
 
 #### Blippar India Pvt Ltd (Infrastructure Engineer, Apr 2017 - present)
-*Technologies:* AWS, Terraform, Consul, Nomad, Vault, Rancher, Drone, Kubernetes.
+*Technologies:* AWS, Terraform, Consul, Nomad, Vault, Rancher, Drone, Kubernetes, Helm, Kafka.
 
 Actively worked towards an unified architecture to improve engineering effectiveness:
 
- * Containerized legacy applications and worked with devs ensure conformance to 12-factor for existing containers.
+ * Containerized legacy applications and worked with devs to ensure 12-factor conformance for existing containers.
 
- * Consolidated monitoring, alerting and metrics collection systems using Grafana and Prometheus
-
- * Standardized CI/CD conventions and workflows
+ * Consolidated monitoring, alerting and metrics collection systems using Grafana and Prometheus.
 
  * Introduced Kubernetes to enable consolidation of different workloads (stateful, stateless, crons, one-off jobs)
 
  * Instituted infrastructure as code using Terraform and Flux.
-
- * Redesigned network topology to ensure isolation of production and dev environment
 
 All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
@@ -49,7 +49,7 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 #### McKinsey & Company (McKinsey Digital Consultant, Apr 2013 - Aug 2014)
 *Technologies:* AWS, Ruby, Cloudera Impala, OpenRefine, CsvDedupe, Hadoop Streaming, HBase.
 
-* *Merger & Acquisition Analysis:* Applied machine learning and NLP techniques for finding customer overlap between two clients. This data was in-turn used for gathering KPIs for the M&A.
+* *Merger & Acquisition Analysis:* Applied machine learning for finding customer overlap between two clients. This data was in-turn used for gathering KPIs for the M&A.
 
 * *Airline Revenue Management application (Internal and Market performance analysis)*: Gathered business requirements, formulated formal models and architected the application backend. Also developed Data Simulation module for generating data for demos and testing.
 
@@ -102,9 +102,16 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 ### Courses ###
 
-* Machine Learning - Qualitative track *(Standford University via ml-class.org)*
+* Machine Learning *(Standford University via ml-class.org)*
 * Introduction to Philosophy *(University of Edinburgh via Coursera)*
-* Understanding Einstein: The Special Theory of Relativity - Qualitative track *(Standford University via Coursera)*
+* Understanding Einstein: The Special Theory of Relativity *(Standford University via Coursera)*
 * Learning how to learn (University of California, San Diego via Coursera)
+
+### Interests
+
+* Distibuted Systems
+* Systems Programming
+* Functional programming Languages
+* Applied machine learning
 
 [Github](https://github.com/abhijith) [LinkedIn](https://www.linkedin.com/in/abhijithg)
