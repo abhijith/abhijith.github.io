@@ -1,4 +1,4 @@
-### <center>Abhijith Gopal</center>
+### Abhijith Gopal
 ---
 
 ### Skills and Experience
@@ -12,6 +12,10 @@
 * Experienced in both development and infrastructure engineering.
 
 * Have held different roles Developer, DevOps, Architect, Data Engineer and individual contributor.
+
+* Ability to rapidly grasp new concepts and be productive in a short span of time.
+
+* Ability to think from first principles and debug problems systematically.
 
 ### Professional Summary  (2006 - present)
 
@@ -73,9 +77,9 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 #### Atlantis Computing Pvt Ltd (Senior Developer, Apr 2007 - Aug 2011)
 
-*Atlantis ILIO: Full stack virtualization suite with in-line data deduplication*
-
 *Technologies:* C, Ruby, Python, Erlang, Mnesia, VMware, Device Mapper, Linux Kernel.
+
+*Atlantis ILIO: Full stack virtualization suite with in-line data deduplication*
 
   * Designed and developed core components for the data deduplication Linux Kernel module.
 
@@ -95,23 +99,19 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
   Implemented the CRUD backend logic for the application using PERL and Catalyst framework.
 
-
 ### Education
 
 * B.E, Computer Science *(Dayananda Sagar College of Engineering, 2002 - 2006)*
 
-### Courses ###
+### Courses
 
 * Machine Learning *(Standford University via ml-class.org)*
 * Introduction to Philosophy *(University of Edinburgh via Coursera)*
 * Understanding Einstein: The Special Theory of Relativity *(Standford University via Coursera)*
 * Learning how to learn (University of California, San Diego via Coursera)
 
-### Interests
+### References
 
-* Distibuted Systems
-* Systems Programming
-* Functional programming Languages
-* Applied machine learning
+Available on request
 
 [Github](https://github.com/abhijith) [LinkedIn](https://www.linkedin.com/in/abhijithg)
