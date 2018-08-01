@@ -47,8 +47,6 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
   * Instituted Infrastructure-As-Code using chef-provisioning.
 
-  * Prototyped click-tracking system in Clojure using Amazon Kinesis and Storm.
-
 
 #### McKinsey & Company (McKinsey Digital Consultant, Apr 2013 - Aug 2014)
 *Technologies:* AWS, Ruby, Cloudera Impala, OpenRefine, CsvDedupe, Hadoop Streaming, HBase.
@@ -70,8 +68,6 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 * Developed metrics and monitoring system for various components of the software stack using Sensu monitoring framework. Developed and open-sourced plugins for the same. All-in-all helped the company increase the reliability of the cluster and decrease the response time for detecting and resolving an incident.
 
-* Developed mechanisms and used configuration management system for deploying all components of the software stack.
-
 * Helped build AWS EMR-like functionality using custom AMIs to spin-up Hadoop clusters in a matter of few minutes.
 
 
@@ -89,9 +85,6 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
   * Designed and developed several modules for the administration console; policy engine for users / virtual assets, middleware for the load-balancer, VM health agents, etc.
 
-  * Developed interfacing mechanisms to virtualize applications using Thinstall SDK via the administration console.
-
-  * Implemented the installer GUI and significant portions of the backend using Ruby-Shoes UI toolkit.
 
 #### DeepRoot Linux Pvt Ltd (Developer, Nov 2006 - Apr 2007)
 
