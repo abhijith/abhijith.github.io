@@ -4,11 +4,11 @@
 
 ### Skills and Experience
 
-* *Languages:* Fluent in Ruby. Prior experience in Python, C, Clojure and Erlang. Have also dabbled  with Haskell and Rust.
+* *Languages:* Fluent in Ruby. Prior experience in Python, C, Clojure and Erlang.
 
 * Operational and architectural experience with: AWS, HBase, Hadoop, Storm, Zookeeper, Kafka, RabbitMQ, Consul, Vault, Rancher, Kubernetes, Helm.
 
-* Prior experience in Virtualization, Linux Kernel development, data engineering and applying machine learning.
+* Prior experience in virtualization, Linux Kernel development, data engineering and applied machine learning.
 
 * Experienced in both development and infrastructure engineering.
 
@@ -61,8 +61,6 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 * Deployed and managed Hadoop, ZooKeeper and HBase cluster on AWS using Ironfan.
 
-* Used metrics and monitoring to detect cluster/application health degradation; Data-driven and proactive resolution of issues.
-
 * Actively eliminated manual steps (and consequently human errors) via complete automation of deployments and configuration.
 
 * Helped build AWS EMR-like functionality using custom AMIs and AWS Spot-Instances to spin-up Hadoop clusters in a matter of few minutes.
@@ -93,12 +91,5 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 ### Education
 
 * B.E, Computer Science *(Dayananda Sagar College of Engineering, 2002 - 2006)*
-
-### Courses
-
-* Machine Learning *(Standford University via ml-class.org)*
-* Introduction to Philosophy *(University of Edinburgh via Coursera)*
-* Understanding Einstein: The Special Theory of Relativity *(Standford University via Coursera)*
-* Learning how to learn (University of California, San Diego via Coursera)
 
 [Github](https://github.com/abhijith) [LinkedIn](https://www.linkedin.com/in/abhijithg)
