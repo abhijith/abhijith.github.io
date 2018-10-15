@@ -4,13 +4,16 @@
 
 ### Skills and Experience
 
-* *Languages:* Fluent in Ruby. Prior experience in Python, C, Clojure and Erlang.
+* *Languages:* Fluent in Ruby. Prior experience in PERL, Python, C, Clojure. Working knowledge of Erlang and Go.
 
-* Operational and architectural experience with: AWS, HBase, Hadoop, Storm, Zookeeper, Kafka, RabbitMQ, Consul, Vault, Rancher, Kubernetes, Helm.
+* *Data Engineering tool-chain:* Hadoop Streaming, HBase, Storm, Kafka, RabbitMQ.
 
-* Prior experience in virtualization, Linux Kernel development, data engineering and applied machine learning.
+* *DevOps tool-chain:* Docker, AWS ecosystem, Vagrant, Consul, Vault, Rancher, Kubernetes, Helm, Terraform, Chef, Drone CI, Sensu.
 
-* Experienced in both development and infrastructure engineering.
+* Prior experience in virtualization domain and Linux File System development.
+
+* Ability to rapidly grasp new concepts and be productive in a short span of time.
+
 
 ### Professional Summary  (2006 - present)
 
@@ -91,5 +94,3 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 ### Education
 
 * B.E, Computer Science *(Dayananda Sagar College of Engineering, 2002 - 2006)*
-
-[Github](https://github.com/abhijith) [LinkedIn](https://www.linkedin.com/in/abhijithg)
