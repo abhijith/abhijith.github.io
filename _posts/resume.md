@@ -1,4 +1,5 @@
 ### Abhijith Gopal
+
 ---
 
 ### Skills and Experience
@@ -11,15 +12,9 @@
 
 * Experienced in both development and infrastructure engineering.
 
-* Have held different roles Developer, DevOps, Architect, Data Engineer and individual contributor.
-
-* Ability to rapidly grasp new concepts and be productive in a short span of time.
-
-* Ability to think from first principles and debug problems systematically.
-
 ### Professional Summary  (2006 - present)
 
-#### Blippar India Pvt Ltd (Infrastructure Engineer, Apr 2017 - present)
+#### Blippar India Pvt Ltd (Infrastructure Engineer, Apr 2017 - Oct 2018)
 *Technologies:* AWS, Terraform, Consul, Nomad, Vault, Rancher, Drone, Kubernetes, Helm, Kafka.
 
 Actively worked towards an unified architecture to improve engineering effectiveness:
@@ -30,7 +25,7 @@ Actively worked towards an unified architecture to improve engineering effective
 
  * Introduced Kubernetes to enable consolidation of different workloads (stateful, stateless, crons, one-off jobs)
 
- * Instituted infrastructure as code using Terraform and Flux.
+ * Instituted infrastructure as code using Terraform and WeaveWorks Flux.
 
 All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
@@ -55,25 +50,28 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 * *Airline Revenue Management application (Internal and Market performance analysis)*: Gathered business requirements, formulated formal models and architected the application backend. Also developed Data Simulation module for generating data for demos and testing.
 
-* *Promotional analysis for the retail practice:* Re-architected the existing RDBMs based system using Hadoop and HBase. The new system outperformed the old system by 400x.
+* *Promotional analysis for the retail practice:* Re-architected the existing RDBMs based system using Hadoop/HBase and reduced turnaround time from ~60 hours to 10 minutes.
 
 
 #### Higher Order Systems (Runa Inc) (Senior Software Engineer [Platform], Sep 2011 - Mar 2013)
 
 *Technologies:* Ruby, Clojure, Vagrant, Chef, Ironfan, Hadoop, HBase, ZooKeeper, AWS, Sensu, RabbitMQ.
 
-* Introduced build and dependency management system for the Clojure application stack. Standardized the development environment on workstations using Vagrant and Ironfan.
+* Ported the Clojure application stack to Leiningen and standardized the development environment. Consequently, reduced dev-prod disparity.
 
-* Deployed and managed Hadoop/HBase cluster deployment on AWS.
+* Deployed and managed Hadoop, ZooKeeper and HBase cluster on AWS using Ironfan.
 
-* Developed metrics and monitoring system for various components of the software stack using Sensu monitoring framework. Developed and open-sourced plugins for the same. All-in-all helped the company increase the reliability of the cluster and decrease the response time for detecting and resolving an incident.
+* Used metrics and monitoring to detect cluster/application health degradation; Data-driven and proactive resolution of issues.
 
-* Helped build AWS EMR-like functionality using custom AMIs to spin-up Hadoop clusters in a matter of few minutes.
+* Actively eliminated manual steps (and consequently human errors) via complete automation of deployments and configuration.
 
+* Helped build AWS EMR-like functionality using custom AMIs and AWS Spot-Instances to spin-up Hadoop clusters in a matter of few minutes.
+
+* Halved Cloud infrastructure expenditure by streamlining workflows on the Cloud and data-driven cluster sizing
 
 #### Atlantis Computing Pvt Ltd (Senior Developer, Apr 2007 - Aug 2011)
 
-*Technologies:* C, Ruby, Python, Erlang, Mnesia, VMware, Device Mapper, Linux Kernel.
+*Technologies:* C, Ruby, Python, Erlang, Mnesia, VMware, Device Mapper, Linux VFS.
 
 *Atlantis ILIO: Full stack virtualization suite with in-line data deduplication*
 
@@ -102,9 +100,5 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 * Introduction to Philosophy *(University of Edinburgh via Coursera)*
 * Understanding Einstein: The Special Theory of Relativity *(Standford University via Coursera)*
 * Learning how to learn (University of California, San Diego via Coursera)
-
-### References
-
-Available on request
 
 [Github](https://github.com/abhijith) [LinkedIn](https://www.linkedin.com/in/abhijithg)
