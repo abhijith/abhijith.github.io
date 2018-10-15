@@ -1,3 +1,3 @@
 #!/bin/sh
 
-grip resume.md --export prune.html --title="" --no-inline
+grip resume.md --export resume.html --title="" --no-inline
