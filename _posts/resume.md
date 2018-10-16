@@ -12,8 +12,7 @@
 
 * Prior experience in virtualization domain and Linux File System development.
 
-* Ability to rapidly grasp new concepts and be productive in a short span of time.
-
+* Good understanding of Linux system architecture and the GNU ecosystem.
 
 ### Professional Summary  (2006 - present)
 
@@ -28,7 +27,7 @@ Actively worked towards an unified architecture to improve engineering effective
 
  * Introduced Kubernetes to enable consolidation of different workloads (stateful, stateless, crons, one-off jobs)
 
- * Instituted infrastructure as code using Terraform and WeaveWorks Flux.
+ * Instituted Infrastructure-As-Code using Terraform and WeaveWorks Flux.
 
 All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
@@ -49,7 +48,7 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 #### McKinsey & Company (McKinsey Digital Consultant, Apr 2013 - Aug 2014)
 *Technologies:* AWS, Ruby, Cloudera Impala, OpenRefine, CsvDedupe, Hadoop Streaming, HBase.
 
-* *Merger & Acquisition Analysis:* Applied machine learning for finding customer overlap between two clients. This data was in-turn used for gathering KPIs for the M&A.
+* *Merger & Acquisition Analysis:* Applied machine learning for finding customer overlap between two clients. This data was in turn used for gathering KPIs for the M&A.
 
 * *Airline Revenue Management application (Internal and Market performance analysis)*: Gathered business requirements, formulated formal models and architected the application backend. Also developed Data Simulation module for generating data for demos and testing.
 
