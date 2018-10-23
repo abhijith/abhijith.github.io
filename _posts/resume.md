@@ -1,18 +1,17 @@
 ### Abhijith Gopal
 
 ---
-
 ### Skills and Experience
 
 * *Languages:* Fluent in Ruby. Prior experience in PERL, Python, C, Clojure. Working knowledge of Erlang and Go.
 
-* *Data Engineering tool-chain:* Hadoop Streaming, HBase, Storm, Kafka, RabbitMQ.
+* *Data Engineering tool-chain:* Hadoop Streaming, HBase, Apache Storm, Kafka, RabbitMQ.
 
 * *DevOps tool-chain:* Docker, AWS ecosystem, Vagrant, Consul, Vault, Rancher, Kubernetes, Helm, Terraform, Chef, Drone CI, Sensu.
 
-* Prior experience in virtualization domain and Linux File System development.
+* Experience in server side programming (HTTP APIs), modelling against both SQL and NoSQL systems.
 
-* Good understanding of Linux system architecture and the GNU ecosystem.
+* Working knowledge of machine learning and rudimentary understanding of Neural Networks
 
 ### Professional Summary  (2006 - present)
 
@@ -21,7 +20,7 @@
 
 Actively worked towards an unified architecture to improve engineering effectiveness:
 
- * Containerized legacy applications and worked with devs to ensure 12-factor conformance for existing containers.
+ * Containerized applications and worked with devs to ensure 12-factor conformance for existing containers.
 
  * Consolidated monitoring, alerting and metrics collection systems using Grafana and Prometheus.
 
@@ -40,10 +39,9 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
   * Designed and developed several components: Catalog management system, Promotion engine, Cart functionality, Refund/Return system, Scenario generation framework for testing.
 
-  * Mentored junior engineers, introduced sound engineering practices; code reviews, automated testing, standardization of development environments.
+  * Mentored junior engineers, introduced sound engineering practices; code reviews, automated testing, standardization of development environments and Infrastructure-As-Code.
 
-  * Instituted Infrastructure-As-Code using chef-provisioning.
-
+The new system reduced infrastructure cost by 20-30% and increased the overall reliability of the system.
 
 #### McKinsey & Company (McKinsey Digital Consultant, Apr 2013 - Aug 2014)
 *Technologies:* AWS, Ruby, Cloudera Impala, OpenRefine, CsvDedupe, Hadoop Streaming, HBase.
@@ -54,12 +52,11 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 * *Promotional analysis for the retail practice:* Re-architected the existing RDBMs based system using Hadoop/HBase and reduced turnaround time from ~60 hours to 10 minutes.
 
-
 #### Higher Order Systems (Runa Inc) (Senior Software Engineer [Platform], Sep 2011 - Mar 2013)
 
 *Technologies:* Ruby, Clojure, Vagrant, Chef, Ironfan, Hadoop, HBase, ZooKeeper, AWS, Sensu, RabbitMQ.
 
-* Ported the Clojure application stack to Leiningen and standardized the development environment. Consequently, reduced dev-prod disparity.
+* Ported the Clojure application stack to Leiningen and standardized the development environment.
 
 * Deployed and managed Hadoop, ZooKeeper and HBase cluster on AWS using Ironfan.
 
@@ -67,7 +64,7 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
 * Helped build AWS EMR-like functionality using custom AMIs and AWS Spot-Instances to spin-up Hadoop clusters in a matter of few minutes.
 
-* Halved Cloud infrastructure expenditure by streamlining workflows on the Cloud and data-driven cluster sizing
+Reduced cloud expenditure by 45-50%, reduced human errors and increased reliability.
 
 #### Atlantis Computing Pvt Ltd (Senior Developer, Apr 2007 - Aug 2011)
 
@@ -77,11 +74,11 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 
   * Designed and developed core components for the data deduplication Linux Kernel module.
 
-  * ILIO: Developed modules for the ILIO VM Scheduler and storage layering component.
+  * ILIO: Developed HTTP APIs and libraries for the ILIO VM Scheduler and storage layering component.
 
   * Was instrumental in re-architecting and prototyping the virtual machine scheduler using Erlang/OTP.
 
-  * Designed and developed several modules for the administration console; policy engine for users / virtual assets, middleware for the load-balancer, VM health agents, etc.
+  * Designed and developed backend code and HTTP APIs for the administration console; policy engine for users / virtual assets, HTTP client for the load-balancer, VM health agents, etc.
 
 
 #### DeepRoot Linux Pvt Ltd (Developer, Nov 2006 - Apr 2007)
@@ -93,3 +90,6 @@ All-in-all reduced the complexity, human errors and AWS expenditure over 15%.
 ### Education
 
 * B.E, Computer Science *(Dayananda Sagar College of Engineering, 2002 - 2006)*
+* Machine Learning *(Standford University via Coursera)*
+
+[Github](https://github.com/abhijith) [LinkedIn](https://www.linkedin.com/in/abhijithg)
