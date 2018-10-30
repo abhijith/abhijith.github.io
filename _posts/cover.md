@@ -1,9 +1,8 @@
 Hi!
 
-&nbsp;&nbsp;&nbsp;&nbsp;I would like to apply to role of Data Engineer at Booking.com. I
-  believe that I that there is a good overlap of skills required for
-  the role with my background/interest. Following is a summary of
-  professional background and my interests.
+&nbsp;&nbsp;&nbsp;&nbsp;I would like to apply to role of Senior
+Software Engineer at Booking.com. Following is a summary of
+professional background and my interests.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Over the last 12 years I have had the opportunity to work on a diverse
 set of things. Some of things that I have worked on include cloud
@@ -14,7 +13,7 @@ variety of programming languages.
 formalized business processes, introduced good engineering practices,
 planned and executed projects under tight deadlines.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Primarly, my experience and interests is in systems and infrastructure
+&nbsp;&nbsp;&nbsp;&nbsp;Primarly, my experience and interest is in systems and infrastructure
 engineering. I have built data pipelines (have a good understanding of
 Lambda and Kappa architecture), have deployed, tuned and programmed
 against distributed systems like Hadoop and ZooKeeper, and have
