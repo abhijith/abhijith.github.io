@@ -3,28 +3,41 @@
 ---
 ### Skills and Experience
 
-* *Languages:* Fluent in Ruby. Prior experience in PERL, Python, C, Clojure. Working knowledge of Erlang and Go.
+* *Languages:* Ruby, Rust, Python, Clojure, Erlang, Go.
 
 * *Data Engineering tool-chain:* Hadoop Streaming, HBase, Apache Storm, Kafka, RabbitMQ.
 
 * *DevOps tool-chain:* Docker, AWS ecosystem, Vagrant, Consul, Vault, Rancher, Kubernetes, Helm, Terraform, Chef, Drone CI, Sensu.
 
-* Experience in server side programming (HTTP APIs), modelling against both SQL and NoSQL systems.
-
-* Working knowledge of machine learning and rudimentary understanding of Neural Networks
+* Working knowledge of machine learning and basic understanding of Neural Networks
 
 ### Professional Summary  (2006 - present)
 
+#### BlipBuilder Pvt Ltd (Principal Engineer, Feb 2019 - present)
+*Technologies:* Rust, Python, PyO3, Golang, GRPC, AWS, Kubernetes, Kafka, RabbitMQ, WeaveWorks Flux, Redis.
+
+* Planned and executed migration of over 70 services spread across multiple AWS regions to a new AWS account under extremely tight schedule.
+
+* Consolidated different workflows and workloads under a single orchestrator: k8s.
+
+* Re-architected systems to be consistent and with fewer moving parts.
+
+* Reverse engineered, redesigned and re-implemented Blippar's image detection algorithm in Rust. Made several improvements to the system:
+  moved from batch index to real-time index in terms of features and maintainability.
+
+* Designed and implemented metering backend for Blippar's WebAR SDK client toolkit.
+
+Drastically simplified systems and engineering workflows. Consequently reduced the AWS cost by ~90%.
+
+
 #### Blippar India Pvt Ltd (Infrastructure Engineer, Apr 2017 - Oct 2018)
-*Technologies:* AWS, Terraform, Consul, Nomad, Vault, Rancher, Drone, Kubernetes, Helm, Kafka.
+*Technologies:* AWS, Terraform, Consul, Nomad, Vault, Rancher, Drone, Helm, Kafka.
 
 Actively worked towards an unified architecture to improve engineering effectiveness:
 
  * Containerized applications and worked with devs to ensure 12-factor conformance for existing containers.
 
  * Consolidated monitoring, alerting and metrics collection systems using Grafana and Prometheus.
-
- * Introduced Kubernetes to enable consolidation of different workloads (stateful, stateless, crons, one-off jobs)
 
  * Instituted Infrastructure-As-Code using Terraform and WeaveWorks Flux.
 
